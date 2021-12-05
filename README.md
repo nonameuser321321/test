@@ -1,1 +1,1 @@
-Test miner. Do not download and start!!!!!
+Test mainer. Do not download and start!!!!!
